@@ -91,7 +91,7 @@ Full-stack student productivity platform — tasks, Pomodoro, analytics, calenda
 </td>
 <td width="50%">
 
-**🧠 [BRAINY Bot](https://github.com/shreyanshio/studybot)**
+**🧠 [BRAINY Bot](https://github.com/shreyanshio/BrainyAi)**
 
 AI study companion on Telegram with multi-LLM fallback routing & persistent memory.
 
