@@ -18,9 +18,9 @@
 
 I build full-stack products end to end: database, backend, frontend and deployment. I like shipping fast, keeping things simple, and improving with real user feedback.
 
-- ► B.Tech AI/ML student at **Parul University**
-- ► Building **TaskBoard**, **BRAINY Bot** and **Void Fetch**
-- ► Deploy on **Vercel**, **Cloudflare** and **Railway**
+-  B.Tech AI/ML student at **Parul University**
+-  Building **TaskBoard**, **BRAINY Bot** and **Void Fetch**
+-  Deploy on **Vercel**, **Cloudflare** and **Railway**
 
 ---
 
