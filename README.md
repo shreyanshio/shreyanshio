@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=700&size=44&duration=2500&pause=100000&repeat=false&color=7AA2F7&center=true&vCenter=true&width=650&height=80&lines=Shreyansh+Pathak+亗" alt="Shreyansh Pathak" />
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=700&size=44&duration=2500&pause=100000&repeat=false&color=7AA2F7&center=true&vCenter=true&width=650&height=80&lines=Shreyansh+Pathak" alt="Shreyansh Pathak" />
 
 <p><b><i>Turning midnight ideas into fast, polished full-stack apps — explore my repos, drop a ⭐ on what you like, and let's build something great together.</i></b></p>
 
