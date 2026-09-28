@@ -130,17 +130,7 @@ Social media downloader with multi-source fallback and song identification.
 
 </div>
 
----
 
-## 🔥 Daily Commits
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyanshio/shreyanshio/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyanshio/shreyanshio/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/shreyanshio/shreyanshio/output/github-snake-dark.svg" width="100%" />
-</picture>
 
 </div>
 
