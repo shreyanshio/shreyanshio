@@ -14,7 +14,7 @@
 
 ---
 
-## ✪  About  ✪  
+## ✪  About  
 
 I build full-stack products end to end: database, backend, frontend and deployment. I like shipping fast, keeping things simple, and improving with real user feedback.
 
