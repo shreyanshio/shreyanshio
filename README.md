@@ -2,10 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=700&size=44&duration=2500&pause=100000&repeat=false&color=7AA2F7&center=true&vCenter=true&width=650&height=80&lines=Shreyansh+Pathak" alt="Shreyansh Pathak" />
 
-<p><b><i>Turning midnight ideas into fast, polished full-stack apps — explore my repos, drop a ⭐ on what you like, and let's build something great together.</i></b></p>
+<p><b><i>FullStack Engineer, Mastering Telegram Architecture/Ecosystem and Cloud Services.</i></b></p>
 
 <p>
-  <a href="https://t.me/shreyanshhh_08"><img src="https://img.shields.io/badge/Telegram-@shreyanshhh__08-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/shreyanshhh_08"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://youtube.com/@aurabreaker7"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/_shreyansh.io/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
