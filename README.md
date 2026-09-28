@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Shreyansh Pathak</h1>
+<h1>Shreyansh Pathak 亗</h1>
 
 <h3>Full Stack Developer</h3>
 
