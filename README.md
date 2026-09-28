@@ -17,7 +17,6 @@
   <li>B.Tech AI/ML student at <b>Parul University</b></li>
   <li>Self-taught Builder & Bot Whisperer — crafted <b>TaskBoard, BRAINY Bot & Void Fetch</b></li>
   <li>Ship fast, deploy faster — <b>Vercel, Cloudflare & Railway</b> are home</li>
-   <li><b>Discipline over Motivation</b></li>
 </ul>
 
 ---
