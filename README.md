@@ -77,9 +77,9 @@ I build full-stack products end to end: database, backend, frontend and deployme
 
 </div>
 
----
 
-## 🚀 Featured Projects
+
+##  Featured Projects
 
 <table>
 <tr>
