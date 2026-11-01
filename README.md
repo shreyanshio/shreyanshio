@@ -4,7 +4,7 @@
 
 **CS (AI/ML) student · Developer · Professional “one more feature” enthusiast**
 
-[LinkedIn](https://www.linkedin.com/in/shreyanshio/) · [Telegram](https://t.me/shreyanshhh_08) · [YouTube](https://youtube.com/@aurabreaker7) · [Instagram](https://www.instagram.com/_shreyansh.io/)
+[Telegram](https://t.me/shreyanshhh_08) · [YouTube](https://youtube.com/@aurabreaker7) · [Instagram](https://www.instagram.com/_shreyansh.io/)
 
 </div>
 
@@ -43,8 +43,9 @@ I don't claim to know every tool on this list inside out. Some are daily drivers
 ## Find me around the internet
 
 - [GitHub](https://github.com/shreyanshio)
-- [LinkedIn](https://www.linkedin.com/in/shreyanshio/)
 - [Telegram](https://t.me/shreyanshhh_08)
+- [YouTube](https://youtube.com/@aurabreaker7)
+- [Instagram](https://www.instagram.com/_shreyansh.io/)
 
 ---
 
