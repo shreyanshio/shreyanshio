@@ -129,6 +129,6 @@ Social media downloader with multi-source fallback and song identification.
 
 <div align="center">
 
-<i>Discipline &gt; Motivation</i>
+<i>𝐕𝐄𝐍𝐈 • 𝐕𝐈𝐃𝐈 • 𝐕𝐈𝐂𝐈</i>
 
 </div>
