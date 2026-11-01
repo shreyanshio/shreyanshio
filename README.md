@@ -96,7 +96,7 @@ Student productivity platform with tasks, Pomodoro, analytics, calendar and Tele
 <td width="33%" valign="top">
 
 ### 🧠 [BRAINY Bot](https://github.com/shreyanshio/BrainyAi)
-AI study companion with multi-LLM fallback routing, quizzes, leaderboards and persistent memory.
+BRAINY is an advanced, multi-provider AI assistant designed primarily as a study companion. It seamlessly bridges a feature-rich Telegram Bot with a modern, Brainy-style web interface.
 
 `Python` `Telegram Bot API` `Multi-LLM`
 
@@ -122,7 +122,6 @@ Social media downloader with multi-source fallback and song identification.
 
 <div align="center">
 
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%"/>
 <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%"/>
 <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%"/>
 <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%"/>
