@@ -116,12 +116,7 @@ Social media downloader with multi-source fallback and song identification.
 </tr>
 </table>
 
----
 
-
-
-
----
 
 <div align="center">
 
