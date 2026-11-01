@@ -95,7 +95,7 @@ Student productivity platform with tasks, Pomodoro, analytics, calendar and Tele
 </td>
 <td width="33%" valign="top">
 
-### 🧠 [BRAINY Bot](https://github.com/shreyanshio/BrainyAi)
+### 🧠 [Brainy AI](https://github.com/shreyanshio/BrainyAi)
 BRAINY is an advanced, multi-provider AI assistant designed primarily as a study companion. It seamlessly bridges a feature-rich Telegram Bot with a modern, Brainy-style web interface.
 
 `Python` `Telegram Bot API` `Multi-LLM`
