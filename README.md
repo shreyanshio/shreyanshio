@@ -16,9 +16,9 @@
 
 ## ✪  About  
 
-I'm a B.Tech CSE (AI/ML) student at **Parul University**, usually building full-stack projects, AI tools, or Telegram bots. I like making things, breaking them, and occasionally fixing what I broke.
+I build full-stack projects, AI tools, and Telegram bots — mostly because an idea rarely leaves me alone until I've tried building it. Still learning, still shipping, and occasionally debugging my own confidence.
 
-Outside code, I'm into football. My ball knowledge is world-class — according to me, at least.
+Outside tech, I'm into football. My ball knowledge is elite; the match footage may disagree.
 
 -  B.Tech AI/ML student at **Parul University**
 -  Building **TaskBoard**, **BRAINY Bot** and **Void Fetch**
