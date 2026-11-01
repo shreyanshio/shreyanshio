@@ -118,14 +118,6 @@ Social media downloader with multi-source fallback and song identification.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%"/>
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%"/>
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%"/>
-<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%"/>
 
 </div>
 
