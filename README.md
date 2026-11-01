@@ -16,7 +16,9 @@
 
 ## ✪  About  
 
-I build full-stack products end to end: database, backend, frontend and deployment. I like shipping fast, keeping things simple, and improving with real user feedback.
+I'm a B.Tech CSE (AI/ML) student at **Parul University**, usually building full-stack projects, AI tools, or Telegram bots. I like making things, breaking them, and occasionally fixing what I broke.
+
+Outside code, I'm into football. My ball knowledge is world-class — according to me, at least.
 
 -  B.Tech AI/ML student at **Parul University**
 -  Building **TaskBoard**, **BRAINY Bot** and **Void Fetch**
