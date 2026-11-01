@@ -16,9 +16,8 @@
 
 ## ✪  About  
 
-I build full-stack projects, AI tools, and Telegram bots — mostly because an idea rarely leaves me alone until I've tried building it. Still learning, still shipping, and occasionally debugging my own confidence.
+I build full-stack projects, AI tools, and Telegram bots, mostly because an idea rarely leaves me alone until I've tried building it. Still learning, still shipping, and occasionally debugging my own confidence.
 
-Outside tech, I'm into football. My ball knowledge is elite; the match footage may disagree.
 
 -  B.Tech AI/ML student at **Parul University**
 -  Building **TaskBoard**, **BRAINY Bot** and **Void Fetch**
