@@ -1,6 +1,6 @@
 <div align="left">
  
-<img src="https://readme-typing-svg.demolab.com?font=Ultra&size=52&duration=2500&pause=100000&repeat=false&color=7AA2F7&center=false&vCenter=true&width=650&height=100&lines=Shreyansh+Pathak" alt="Shreyansh Pathak" />
+<img src="./assets/shreyansh-name.svg" alt="Shreyansh Pathak" width="850" />
 
 <p><b><i>FullStack Engineer, Mastering Telegram Architecture/Ecosystem and Cloud Services.</i></b></p>
 
