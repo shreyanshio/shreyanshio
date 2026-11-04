@@ -119,6 +119,14 @@ Social media downloader with multi-source fallback and song identification.
 
 <div align="center">
 
+## GitHub Overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyanshio&theme=github_dark" alt="Shreyansh's GitHub Profile Summary" width="100%" />
+
+</div>
+
+<div align="center">
+
 <i>𝐕𝐄𝐍𝐈 • 𝐕𝐈𝐃𝐈 • 𝐕𝐈𝐂𝐈</i>
 
 </div>
