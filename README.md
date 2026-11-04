@@ -18,12 +18,10 @@
 
 I build full-stack projects, AI tools, and Telegram bots, mostly because an idea rarely leaves me alone until I've tried building it. Still learning, still shipping, and occasionally debugging my own confidence.
 
+- AI/ML student who spends a questionable amount of time turning ideas into software.
+- Building **Brainy** and exploring AI, full-stack development, and open source.
+- Learning brick by brick 😉.
 
--  B.Tech AI/ML student at **Parul University**
--  Building **TaskBoard**, **BRAINY Bot** and **Void Fetch**
--  Deploy on **Vercel**, **Cloudflare** and **Railway**
-
----
 
 ## 🛠️ Languages & Core
 
