@@ -1,6 +1,6 @@
 <div align="left">
  
-<img src="./assets/shreyansh-name.svg" alt="Shreyansh Pathak" width="830" />
+<img src="./assets/shreyansh-name.svg?v=2" alt="Shreyansh Pathak" width="830" />
 
 <p><b><i>FullStack Engineer, Mastering Telegram Architecture/Ecosystem and Cloud Services.</i></b></p>
 
