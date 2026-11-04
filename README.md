@@ -1,12 +1,12 @@
-<div align="center">
+<div align="left">
  
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=700&size=44&duration=2500&pause=100000&repeat=false&color=7AA2F7&center=true&vCenter=true&width=650&height=80&lines=Shreyansh+Pathak" alt="Shreyansh Pathak" />
+<img src="https://readme-typing-svg.demolab.com?font=Ultra&size=52&duration=2500&pause=100000&repeat=false&color=7AA2F7&center=false&vCenter=true&width=650&height=100&lines=Shreyansh+Pathak" alt="Shreyansh Pathak" />
 
 <p><b><i>FullStack Engineer, Mastering Telegram Architecture/Ecosystem and Cloud Services.</i></b></p>
 
 <p>
   <a href="https://t.me/shreyanshhh_08"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://youtube.com/@aurabreaker7"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shreyanshio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/_shreyansh.io/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
